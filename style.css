@@ -1,0 +1,20 @@
+html {
+    background: url(background.jpg) center center fixed;
+    background-size: cover;
+}
+body {
+    background-color: rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+}
+.header {
+    text-align: center;
+    margin-top: 15em;
+}
+.button {
+    background-color: #6f99a1;
+    border-color: #6f99a1;
+}
+.button:hover {
+    background-color: #bbcbd1;
+    border-color: #bbcbd1;
+}
