@@ -10,11 +10,12 @@ body {
     text-align: center;
     margin-top: 15em;
 }
-.button {
+.btn-primary{
     background-color: #6f99a1;
     border-color: #6f99a1;
+    border-radius: 2rem;
 }
-.button:hover {
+.btn-primary:hover {
     background-color: #bbcbd1;
     border-color: #bbcbd1;
 }
