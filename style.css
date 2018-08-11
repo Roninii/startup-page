@@ -1,7 +1,8 @@
 html {
-    background: url(background.jpg) center center fixed;
+    background: url(background.jpg) no-repeat center center fixed;
     background-size: cover;
-    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    height: 100%;
 }
 body {
     background-color: rgba(0, 0, 0, 0);
