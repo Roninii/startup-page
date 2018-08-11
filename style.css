@@ -1,6 +1,7 @@
 html {
     background: url(background.jpg) center center fixed;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 body {
     background-color: rgba(0, 0, 0, 0);
